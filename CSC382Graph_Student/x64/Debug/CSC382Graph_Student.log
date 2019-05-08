@@ -1,0 +1,6 @@
+﻿  CSC382Graph_Student.cpp
+e:\programming\c++\csc382graph_student\csc382graph_student\csc382graph_nodebased.h(201): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  e:\programming\c++\csc382graph_student\csc382graph_student\csc382graph_nodebased.h(200): note: while compiling class template member function 'int CSC382Graph_NodeBased<int>::Size(void)'
+  e:\programming\c++\csc382graph_student\csc382graph_student\csc382graph_student.cpp(19): note: see reference to function template instantiation 'int CSC382Graph_NodeBased<int>::Size(void)' being compiled
+  e:\programming\c++\csc382graph_student\csc382graph_student\csc382graph_student.cpp(15): note: see reference to class template instantiation 'CSC382Graph_NodeBased<int>' being compiled
+  CSC382Graph_Student.vcxproj -> E:\Programming\C++\CSC382Graph_Student\CSC382Graph_Student\x64\Debug\CSC382Graph_Student.exe
